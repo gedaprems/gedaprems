@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gedaprems
-- 👀 I’m interested in Webdevelopment, Android development.
-- 🌱 I’m currently learning Engineering in Computer Science and Engineering Field
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gedamprem2@gmail.com or LinkedIn https://www.linkedin.com/in/gedamprems/
+- 👋 Hi, I’m Premsagar Gedam
+- 👀 I’m interested in FrontEnd development, Data Structure.
+- 🌱 I’m currently working as Software Engineer in Zimetrics Technology Pvt Ltd. 
+- 💞️ I’m looking to collaborate on FrontEnd or Software Development Engineering roles...
+- 📫 How to reach me gedamprems@gmail.com or LinkedIn https://www.linkedin.com/in/gedamprems/
 
 <!---
 gedaprems/gedaprems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
