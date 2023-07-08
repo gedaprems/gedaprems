@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Premsagar Gedam
 - 👀 I’m interested in Data Structure and Development.
 - 🌱 I’m currently working as Software Engineer in Zimetrics Technology Pvt Ltd. 
-- 💞️ I’m looking to collaborate on FrontEnd or Software Development Engineering roles...
+- 💞️ I’m looking to collaborate on Software Development Engineering roles...
 - 📫 How to reach me gedamprems@gmail.com or LinkedIn https://www.linkedin.com/in/gedamprems/
 
 <!---
